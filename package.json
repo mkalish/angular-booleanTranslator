@@ -1,6 +1,6 @@
 {
   "name": "angular-booleanTranslator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Translates a boolean value into text to be displayed",
   "main": "angular-booleanTranslator.js",
   "scripts": {

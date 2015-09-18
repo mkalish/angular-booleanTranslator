@@ -6,7 +6,7 @@
   "scripts": {
     "test": "karma start karma.conf.js"
   },
-  "url":"https://github.com/mkalish/angular-booleanTranslator",
+  "homepage":"https://github.com/mkalish/angular-booleanTranslator",
   "keywords": [
     "angular",
     "translate",

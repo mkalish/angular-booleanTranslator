@@ -1,7 +1,7 @@
 # angular-booleanTranslator
 Simple directive that can be bound to a condition and used to show static text.
 
-#Usage
+# Usage
 
 ```javascript
 angular.module('testModule', ['angular-booleanTranslator']);

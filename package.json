@@ -1,17 +1,18 @@
 {
-  "name": "angular-booleanTranslator",
-  "version": "1.0.0",
+  "name": "angular-boolean-translator",
+  "version": "1.0.1",
   "description": "Translates a boolean value into text to be displayed",
   "main": "angular-booleanTranslator.js",
   "scripts": {
     "test": "karma start karma.conf.js"
   },
+  "url":"https://github.com/mkalish/angular-booleanTranslator",
   "keywords": [
     "angular",
     "translate",
     "directive"
   ],
-  "author": "mkalish",
+  "author": "mqkalish",
   "license": "MIT",
   "devDependencies": {
     "angular": "^1.5.0-beta.0",

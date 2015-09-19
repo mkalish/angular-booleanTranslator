@@ -1,5 +1,6 @@
 # angular-booleanTranslator
-Simple directive that can be bound to a condition and used to show static text.
+Simple directive that can be bound to a condition and used to show static text
+or to collect a boolean value using radio buttons. 
 
 # Usage
 

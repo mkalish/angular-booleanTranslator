@@ -2,7 +2,7 @@
 Simple directive that can be bound to a condition and used to show static text
 or to collect a boolean value using radio buttons.
 
-https://travis-ci.org/mkalish/angular-booleanTranslator.svg?branch=master 
+[![Build Status](https://travis-ci.org/mkalish/angular-booleanTranslator.svg?branch=master)](https://travis-ci.org/mkalish/angular-booleanTranslator)
 
 # Usage
 

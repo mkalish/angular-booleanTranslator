@@ -4,8 +4,7 @@ describe('boolean translator', function () {
     'use strict';
 
     var $rootScope,
-        $compile,
-        principal;
+        $compile;
 
     beforeEach(module('angular-booleanTranslator'));
 
